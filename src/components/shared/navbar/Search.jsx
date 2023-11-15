@@ -16,7 +16,7 @@ const Search = () => {
         >
           <div>
             <FaOpencart className="inline-block mr-2" />
-            <small className="bg-[#f86e9c] rounded-full text-white absolute px-1 top-[40px] right-[908px]">
+            <small className="bg-[#f86e9c] rounded-full text-white absolute px-1 top-[40px] right-[718px]">
               +1
             </small>
           </div>

@@ -79,7 +79,7 @@ const ProductFeature = () => {
     },
   ]);
   // handleExploreMore function
-  const [showAllProducts, setShowAllProducts] = useState(true);
+  const [showAllProducts, setShowAllProducts] = useState(false);
   const handleExploreMore = () => {
     setShowAllProducts(!showAllProducts);
   };
